@@ -1,7 +1,7 @@
 # CALCULATOR
-"C:\Users\prach\OneDrive\Pictures\Screenshots\Screenshot 2024-11-24 213204.png"
+
 git add .
-git commit -m "Added screenshot to README"
+git commit -m"C:\Users\prach\OneDrive\Pictures\Screenshots\Screenshot 2024-11-24 213204.png"
 git push
 
 
